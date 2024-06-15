@@ -27,7 +27,7 @@ Link para Download: [virtualbox-download](https://www.virtualbox.org/wiki/Downlo
 <img src="https://github.com/codelinx-academy/codelinx_LPIC/assets/72288211/cff444fe-8a79-4adb-9374-4fed9119a9f9" alt="VirtualBox-SSH">
 </p>
 
-Distribuições Disponíveis:
+Distribuições:
 1. [openSUSE Leap 15.6](https://get.opensuse.org/leap/15.6/)
 2. [RockyLinux v9.4](https://rockylinux.org/download)
 
@@ -38,13 +38,13 @@ Requisitos do Sistema:
 
 ### <a id="rockylinux"></a> Criando e configurando o ROCKYLINUX9:
 
-inserir passos aqui
+[link para o video]
 
 _Para desativar a interface gráfica, utilize o seguinte comando como usuário **root** e reinicie o sistema: `systemctl set-default multi-user.target`_
 
 ### <a id="leap"></a> Criando e configurando o LEAP:
 
-inserir passos aqui
+[link para o video]
 
 ### <a id="opcao-02"></a>2.2 Opção 02: Baixar e instalar Distros no VirtualBox (Metodo Vagrant)
 
@@ -52,7 +52,7 @@ inserir passos aqui
 <img src="https://github.com/codelinx-academy/codelinx_LPIC/assets/72288211/7f8a80a2-3290-4b61-9c8b-54fa52e793fc" alt="Vagrant-SSH">
 </p>
 
-Distribuições Disponíveis:
+Boxes:
 1. [opensuse/Leap-15.4.x86_64](https://app.vagrantup.com/opensuse/boxes/Leap-15.4.x86_64)
 2. [RockyLinux/9](https://app.vagrantup.com/rockylinux/boxes/9)
 
