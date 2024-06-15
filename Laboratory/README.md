@@ -36,13 +36,13 @@ Requisitos do Sistema:
 - **CPU:** 2 núcleos mínimo, 4 núcleos recomendável
 - **Armazenamento:** 10GB mínimo, 20GB reconmendável
 
-#### <a id="rockylinux"></a> Criando e configurando o ROCKYLINUX9:
+### <a id="rockylinux"></a> Criando e configurando o ROCKYLINUX9:
 
 inserir passos aqui
 
 _Para desativar a interface gráfica, utilize o seguinte comando como usuário **root** e reinicie o sistema: `systemctl set-default multi-user.target`_
 
-#### <a id="leap"></a> Criando e configurando o LEAP:
+### <a id="leap"></a> Criando e configurando o LEAP:
 
 inserir passos aqui
 
@@ -56,7 +56,7 @@ Distribuições Disponíveis:
 1. [opensuse/Leap-15.4.x86_64](https://app.vagrantup.com/opensuse/boxes/Leap-15.4.x86_64)
 2. [RockyLinux/9](https://app.vagrantup.com/rockylinux/boxes/9)
 
-#### <a id="vagrant"></a> Vagrant
+### <a id="vagrant"></a> Vagrant
 O Vagrant é uma ferramenta para construir e distribuir ambientes de desenvolvimento. Com ele, você pode criar e configurar ambientes de desenvolvimento leves, reprodutíveis e portáteis.
 
 Link para Download: [vagrant-download](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant).
@@ -67,14 +67,12 @@ Link para Download: [vagrant-download](https://developer.hashicorp.com/vagrant/i
 vagrant up
 ```
 
-#### <a id="rocky-leap"></a> Criando e configurando o ROCKYLINUX9 e LEAP
+### <a id="rocky-leap"></a> Criando e configurando o ROCKYLINUX9 e LEAP
 
 Ao executar o comando `vagrant up`, serão criados dois servidores:
 
 - **Servidor codelinx01:** Distribuição RockyLinux 9, IP: 192.168.1.201
 - **Servidor codelinx02:** Distribuição openSUSE Leap 15.4, IP: 192.168.1.202
-
-#### Acesso via SSH
 
 Para acessar os servidores via SSH, utilize:
 
@@ -83,7 +81,7 @@ vagrant ssh codelinx01
 vagrant ssh codelinx02
 ```
 
-#### <a id="orquestramento"></a> Orquestramento
+### <a id="orquestramento"></a> Orquestramento
 
 - **Inicialização de Novo Projeto Vagrant:**
   ```bash
