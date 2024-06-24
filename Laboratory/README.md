@@ -10,7 +10,6 @@
     - [Vagrant](#download-vagrant)
     - [Criando e configurando o ROCKYLINUX9 e LEAP](#rocky-leap)
     - [Orquestramento](#orquestramento)
-3. [Contato Profissional](#contato-profissional)
 
 ## <a id="informacoes-sobre-o-ambiente"></a>1. Informações sobre o Ambiente
 
