@@ -1,5 +1,9 @@
 # Ambiente preparatório para Certificação LPIC-1 _(provas: v101-102)_ 
 
+<p align="center">
+<img src="https://github.com/codelinx-academy/codelinx_LPIC/assets/72288211/6e130e0f-db37-4b03-b402-30bdbbaa490c" alt="LPIC">
+</p>
+
 ## Objetivo
 O objetivo deste repositório é ajudá-lo a se preparar para os exames da Certificação LPIC-1. Você encontrará documentos detalhados e vídeos explicativos, além de práticas para consolidar seus conhecimentos.
 

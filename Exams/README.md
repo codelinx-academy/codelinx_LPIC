@@ -1,5 +1,9 @@
 # Introdução e indice além de resumo de cada tópico
 
+<p align="center">
+<img src="https://github.com/codelinx-academy/codelinx_LPIC/assets/72288211/6e130e0f-db37-4b03-b402-30bdbbaa490c" alt="LPIC">
+</p>
+
 ## Índice
 
 1. [v101](v101)
