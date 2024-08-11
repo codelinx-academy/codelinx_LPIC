@@ -1,4 +1,4 @@
-Vagrant.configure("2") doconfig|
+Vagrant.configure("2") do |config|
     def define_vm(config, name, box_manager, ip_suffix)
       config.vm.define name do |vm| # Define nome a VM e configurações dentro dela.
         vm.vm.box = box_manager # Define a imagem da VM (Sistema Operacional).

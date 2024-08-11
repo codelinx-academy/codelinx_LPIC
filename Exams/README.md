@@ -6,7 +6,7 @@
 
 ## Índice
 
-1. [v101](v101)
+1. [v101 (Tópico 103 Comandos GNU e Unix)](v101)
    - 1.1 [S01 - Comandos básicos essenciais](v101/S01)
      - [01.md - bash, type, chsh, alias, uname](v101/S01/01.md)
      - [02.md - &&, ||, >, >>, \\, $()](v101/S01/02.md)
